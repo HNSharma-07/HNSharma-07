@@ -1,6 +1,6 @@
 <div align="center">
   
-![banner image](https://github.com/HNSharma-07/HNSharma-07/raw/main/github-banner.jpg)
+![banner image](https://github.com/HNSharma-07/HNSharma-07/blob/main/github-banner.jpg)
 
 # Hello, community 👋
 ### A believer of iteration base learning, who learns new things while building projects.🚀
