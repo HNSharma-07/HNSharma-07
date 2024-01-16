@@ -4,10 +4,16 @@
 
 # Hello community, Harsh Sharma Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### A believer of iteration base learning, who learns new things while building projects.🚀
--🌱 I’m currently learning **React js**<br>
--⛏️ Building Projects in Public<br>
--📫 You can reach out to me at: **hn07sharma@gmail.com**<br>
--⚡ Fun fact **Thinking 🤔 What to Write in git commit -m " "**
+
+[<img alt="Portfolio" src="https://img.shields.io/badge/Website-PORTFOLIO-red?style=for-the-badge">](https://hnsharma-07.github.io/portfolio/)
+[<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />](https://hnsharma-07.github.io/portfolio/Harsh_Resume.pdf)
+</br>
+
+ -🌱 I’m currently learning **React js** <br>
+ -🔭 I’m currently working on **DSA & OOPs** <br>
+ -⛏️ Building Projects in **Public** <br>
+ -⚡ Fun fact **Thinking 🤔 What to Write in git commit -m " "**
+ <!-- -📫 You can reach out to me at: **hn07sharma@gmail.com** <br>  -->
 <!--  [![visiter](https://visitcount.itsvg.in/api?id=HNSharma-07&icon=0&color=0)](https://visitcount.itsvg.in)  -->
 <h2 align="center">For Instant Reply<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect Here</h2>
 
@@ -22,16 +28,19 @@
 
 </br>
 
-
-<h3>📊GitHub Stats :</h3>
+<details>
+<summary><h3>📊GitHub Stats :</h3></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=HNSharma-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HNSharma-07&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HNSharma-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HNSharma-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
 
-<h3>✍️Random Dev Quote</h3>
+<details>
+<summary><h3>✍️Random Dev Quote</h3></summary>
 
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</details>
 
 <h6>Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it.</h6>
 <!-- <img scr="https://quotes-github-readme.vercel.app/api?type=horizontal.jpg" alt="![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)"> -->
