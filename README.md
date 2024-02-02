@@ -5,6 +5,10 @@
 # Hello community, Harsh Sharma Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### A believer of iteration base learning, who learns new things while building projects.🚀
 
+#### 🤝Contribute Your Vanilla JavaScript Projects here :
+<a href="https://hnsharma-07.github.io/JavaScript-Journey/" target="_blank"><img src="https://img.shields.io/twitter/follow/journey?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" alt="JS Journey" /></a>
+<!-- [<img alt="JS Journey" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">](https://hnsharma-07.github.io/JavaScript-Journey/) -->
+
 [<img alt="Portfolio" src="https://img.shields.io/badge/Website-PORTFOLIO-red?style=for-the-badge">](https://hnsharma-07.github.io/portfolio/)
 [<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />](https://hnsharma-07.github.io/portfolio/Harsh_Resume.pdf)
 </br>
