@@ -10,7 +10,7 @@
 <!-- [<img alt="JS Journey" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">](https://hnsharma-07.github.io/JavaScript-Journey/) -->
 
 [<img alt="Portfolio" src="https://img.shields.io/badge/Website-PORTFOLIO-red?style=for-the-badge">](https://hnsharma-07.github.io/portfolio/)
-[<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />](https://hnsharma-07.github.io/portfolio/Harsh_Resume.pdf)
+[<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />](https://hnsharma-07.github.io/portfolio/Harsh_Resume1.pdf)
 </br>
 
  -🌱 I’m currently learning **React js** <br>
