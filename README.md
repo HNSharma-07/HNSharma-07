@@ -9,12 +9,12 @@
 <a href="https://hnsharma-07.github.io/JavaScript-Journey/" target="_blank"><img src="https://img.shields.io/twitter/follow/journey?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" alt="JS Journey" /></a>
 <!-- [<img alt="JS Journey" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">](https://hnsharma-07.github.io/JavaScript-Journey/) -->
 
-[<img alt="Portfolio" src="https://img.shields.io/badge/Website-PORTFOLIO-red?style=for-the-badge">](https://hnsharma-07.github.io/portfolio/)
-[<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />](https://hnsharma-07.github.io/portfolio/Harsh_Resume1.pdf)
+[<img alt="Portfolio" src="https://img.shields.io/badge/Website-PORTFOLIO-red?style=for-the-badge">](https://hnsharma-07.github.io/Java-Portfolio/)
+[<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />]([https://hnsharma-07.github.io/portfolio/Harsh_Resume1.pdf](https://hnsharma-07.github.io/Java-Portfolio/assets/Harsh_Sharma_TCS_Experience_Java_CV.pdf))
 </br>
 
- -🌱 I’m currently learning **React js** <br>
- -🔭 I’m currently working on **DSA & OOPs** <br>
+ -🌱 I’m currently learning **System Design** <br>
+ -🔭 I’m currently working on **DSA & microservices** <br>
  -⛏️ Building Projects in **Public** <br>
  -⚡ Fun fact **Thinking 🤔 What to Write in git commit -m " "**
  <!-- -📫 You can reach out to me at: **hn07sharma@gmail.com** <br>  -->
@@ -24,10 +24,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harsh-sharma-professional/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hn07sharma@gmail.com)
 
-<h2 align="center">🌐Other Social Handles:</h2>
+<!-- <h2 align="center">🌐Other Social Handles:</h2>
 
 [<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://x.com/_An0nYm0uS_E?t=aKvK--dRVNpR6dOIouWmUg&s=09)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/thehnsharma/?hl=en)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/thehnsharma/?hl=en) -->
 
 
 </br>
