@@ -1,11 +1,11 @@
-<div align="center">
+<div >
   
 ![banner image](https://github.com/HNSharma-07/HNSharma-07/blob/main/github-banner.jpg)
 
 # Hello community, Harsh Sharma Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### A believer of iteration base learning, who learns new things while building projects.🚀
 
-#### 🤝Contribute Your Vanilla JavaScript Projects here :
+#### 🤝Contribute Your Vanilla JavaScript Projects here:
 <a href="https://hnsharma-07.github.io/JavaScript-Journey/" target="_blank"><img src="https://img.shields.io/twitter/follow/journey?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" alt="JS Journey" /></a>
 <!-- [<img alt="JS Journey" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">](https://hnsharma-07.github.io/JavaScript-Journey/) -->
 
@@ -19,7 +19,7 @@
  ⚡ Fun fact **Used to think** 🤔 what to write in git commit -m " "
  <!-- -📫 You can reach out to me at: **hn07sharma@gmail.com** <br>  -->
 <!--  [![visiter](https://visitcount.itsvg.in/api?id=HNSharma-07&icon=0&color=0)](https://visitcount.itsvg.in)  -->
-<h2 align="center">For Instant Reply<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect Here</h2>
+<h3>For Instant Reply<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect Here:</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harsh-sharma-professional/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hn07sharma@gmail.com)
@@ -33,7 +33,7 @@
 </br>
 
 <details>
-<summary><h3>📊GitHub Stats :</h3></summary>
+<summary><h3>📊GitHub Stats:</h3></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=HNSharma-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HNSharma-07&theme=radical&hide_border=false)<br/>
@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><h3>✍️Random Dev Quote</h3></summary>
+<summary><h3>✍️Random Dev Quote:</h3></summary>
 
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
