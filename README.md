@@ -13,10 +13,10 @@
 [<img alt="Resume" src="https://img.shields.io/badge/PDF-Resume-red?style=for-the-badge" />]([https://hnsharma-07.github.io/portfolio/Harsh_Resume1.pdf](https://hnsharma-07.github.io/Java-Portfolio/assets/Harsh_Sharma_TCS_Experience_Java_CV.pdf))
 </br>
 
- -🌱 I’m currently learning **System Design** <br>
- -🔭 I’m currently working on **DSA & microservices** <br>
- -⛏️ Building Projects in **Public** <br>
- -⚡ Fun fact **Thinking 🤔 What to Write in git commit -m " "**
+ 🌱 I’m currently learning **System Design** <br>
+ 🔭 I’m currently working on **DSA & microservices** <br>
+ ⛏️ **Building projects** in public <br>
+ ⚡ Fun fact **Used to think** 🤔 what to write in git commit -m " "
  <!-- -📫 You can reach out to me at: **hn07sharma@gmail.com** <br>  -->
 <!--  [![visiter](https://visitcount.itsvg.in/api?id=HNSharma-07&icon=0&color=0)](https://visitcount.itsvg.in)  -->
 <h2 align="center">For Instant Reply<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect Here</h2>
